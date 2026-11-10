@@ -16,7 +16,7 @@
 
 ## Co to je
 
-IPTV Easy-Setup propojí tvůj **Tvheadend** s přehrávači a z vybraných kanálů i filmů ti vygeneruje hotový **M3U8 playlist** s vlastní URL. Vše se nastavuje přes přehledné webové rozhraní v prohlížeči — bez editace konfiguráků a bez složitého ladění. Běží v Dockeru, takže instalace je jeden příkaz a funguje i na nenáročném zařízení (NAS, mini PC, Raspberry Pi apod.).
+IPTV Easy-Setup/Server propojí tvůj **Tvheadend** s přehrávači a z vybraných kanálů i filmů ti vygeneruje hotový **M3U8 playlist** s vlastní URL. Vše se nastavuje přes přehledné webové rozhraní v prohlížeči — bez editace konfiguráků a bez složitého ladění. Běží v Dockeru, takže instalace je jeden příkaz a funguje i na nenáročném zařízení (NAS, mini PC, Raspberry Pi apod.).
 
 K dispozici je zdarma **10denní plně funkční zkušební verze**, po ní stačí vložit licenční klíč.
 
