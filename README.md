@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <b><a href="https://iptv-easy-setup.cz">Oficiální stránka programu iptv-easy-setup.cz</a></b>
+  <b><a href="https://iptv-easy-setup.cz">Oficiální stránka programu IPTV Easy-Setup/Server</a></b>
 </p>
 
 ---
