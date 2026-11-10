@@ -25,7 +25,7 @@ K dispozici je zdarma **10denní plně funkční zkušební verze**, po ní sta�
 - **Napojení na Tvheadend** — zadáš IP, uživatele a heslo a program si načte dostupné kanály.
 - **Výběr kanálů podle skupin** — Filmové, Dokumenty, Sportovní, Hudba, Dětské, Zprávy… zapínáš jednotlivě nebo „Vybrat vše".
 - **Generování M3U8 playlistu** s vlastní adresou (`http://IP:5660/playlist.m3u8`), kterou zadáš do libovolného přehrávače.
-- **VOD (filmy)** — vybereš složku s filmy a program je přidá do playlistu i s metadaty.
+- **VOD (filmy a seriály)** — vybereš složku s vlastními filmy/seriály a program je přidá do playlistu; ke každému titulu navíc **automaticky doplní plakát a popis z TMDB**.
 - **Externí EPG** — až 3 zdroje XMLTV / XML / GZ s prioritou; kanálům bez `tvg-id` přiřadí ID podle názvu.
 - **Externí M3U / M3U8** — přidání cizího playlistu přes URL nebo ze souboru.
 - **Dvojjazyčné rozhraní** — čeština a angličtina.
