@@ -1,24 +1,44 @@
-This is free and unencumbered software released into the public domain.
+Copyright © 2026 IPTV Easy-Setup (https://iptv-easy-setup.cz)
+Všechna práva vyhrazena. / All rights reserved.
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+================================================================================
+ČESKY
+================================================================================
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+Tento software „IPTV Easy-Setup" a veškerý jeho zdrojový kód, obrázky,
+rozhraní a dokumentace jsou výhradním vlastnictvím autora a jsou chráněny
+autorským právem.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+Bez předchozího výslovného písemného souhlasu autora je ZAKÁZÁNO:
+  - kopírovat, šířit, zveřejňovat nebo jinak distribuovat tento software
+    nebo jeho jakoukoli část,
+  - upravovat, dekompilovat, zpětně analyzovat nebo z něj odvozovat jiná díla,
+  - prodávat, pronajímat, půjčovat nebo jinak komerčně využívat tento software.
 
-For more information, please refer to <https://unlicense.org>
+Užívání softwaru je podmíněno platnou licencí, kterou lze získat výhradně
+prostřednictvím iptv-easy-setup.cz. Licence je nepřenosná a je vázána na
+jedno zařízení.
+
+Software je poskytován „tak jak je", bez jakékoli záruky. Autor neodpovídá
+za žádné škody vzniklé jeho používáním.
+
+================================================================================
+ENGLISH
+================================================================================
+
+This software "IPTV Easy-Setup" and all associated source code, images,
+user interface and documentation are the exclusive property of the author
+and are protected by copyright.
+
+Without the author's prior express written permission it is PROHIBITED to:
+  - copy, distribute, publish or otherwise redistribute this software or any
+    part of it,
+  - modify, decompile, reverse-engineer or create derivative works from it,
+  - sell, rent, lease or otherwise commercially exploit this software.
+
+Use of the software requires a valid license, obtainable solely via
+iptv-easy-setup.cz. The license is non-transferable and bound to a single
+device.
+
+The software is provided "as is", without warranty of any kind. The author
+is not liable for any damages arising from its use.
