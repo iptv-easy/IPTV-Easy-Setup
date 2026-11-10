@@ -1,0 +1,21 @@
+# IPTV Easy-Setup – spuštění hotového obrazu z GHCR
+# Použití:
+#   APP_LANG=CZ docker compose up -d      (nebo EN)
+# Aktualizace:
+#   docker compose pull && docker compose up -d
+
+services:
+  iptv-easy-setup:
+    image: ghcr.io/iptv-easy/iptv-easy-setup:latest
+    container_name: iptv-easy-setup
+    restart: always
+    ports:
+      - "5660:5660"
+    environment:
+      DATA_ROOT: "/DATA"
+      APP_LANG: "${APP_LANG:-CZ}"   # CZ nebo EN
+    volumes:
+      - /DATA:/DATA
+      - /etc/localtime:/etc/localtime:ro
+      # HWID pro licenci (jen pro čtení). Kdyby soubor neexistoval, zakomentuj.
+      - /etc/machine-id:/etc/host-machine-id:ro

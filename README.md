@@ -72,16 +72,29 @@ Přidání cizího playlistu přes URL nebo ze souboru.
 
 ## Instalace
 
-Na Linuxu s připojením k internetu stačí jeden příkaz — doinstaluje Docker (pokud chybí), stáhne a spustí program:
+Na Linuxu s připojením k internetu stačí jeden příkaz — doinstaluje Docker (pokud chybí), stáhne hotový obraz a spustí program:
 
 ```bash
-curl -sSL https://iptv-easy-setup.cz/install/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/iptv-easy/IPTV-Easy-Setup/main/install.sh | bash
+```
+
+Nebo přes Docker Compose:
+
+```bash
+curl -sSL https://raw.githubusercontent.com/iptv-easy/IPTV-Easy-Setup/main/docker-compose.yml -o docker-compose.yml
+APP_LANG=CZ docker compose up -d
 ```
 
 Po instalaci otevři webové rozhraní na:
 
 ```
 http://IP-ADRESA-SERVERU:5660
+```
+
+Aktualizace na novou verzi:
+
+```bash
+curl -sSL https://raw.githubusercontent.com/iptv-easy/IPTV-Easy-Setup/main/install.sh | bash
 ```
 
 ## Licence a ceny
