@@ -70,6 +70,26 @@ Přidání cizího playlistu přes URL nebo ze souboru.
 
 ![Externí M3U](images/6.png)
 
+## Podporované platformy
+
+Obraz je **multi-arch (amd64 + arm64)**, takže běží nativně na většině zařízení:
+
+**Hardware**
+- AMD64 (x86-64)
+- ARM64
+- Raspberry Pi
+- Apple Silicon
+
+**Systémy**
+- Linux
+- NAS (QNAP, Synology)
+- macOS (Docker Desktop)
+- Windows (Docker Desktop)
+
+**Kontejnery**
+- Docker
+- Docker Compose
+
 ## Instalace
 
 Na Linuxu s připojením k internetu stačí jeden příkaz — doinstaluje Docker (pokud chybí), stáhne hotový obraz a spustí program:
