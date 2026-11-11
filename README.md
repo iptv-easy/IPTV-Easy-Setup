@@ -97,6 +97,14 @@ Aktualizace na novou verzi:
 curl -sSL https://raw.githubusercontent.com/iptv-easy/IPTV-Easy-Setup/main/install.sh | bash
 ```
 
+## Odinstalace
+
+Zastaví a odstraní program i stažený obraz. Data ve složce `/DATA` (nastavení, playlisty, licence) ve výchozím stavu zůstanou — skript se na jejich smazání zeptá:
+
+```bash
+curl -sSL https://raw.githubusercontent.com/iptv-easy/IPTV-Easy-Setup/main/uninstall.sh | bash
+```
+
 ## Licence a ceny
 
 - **Zkušební verze:** 10 dní zdarma, plně funkční.
