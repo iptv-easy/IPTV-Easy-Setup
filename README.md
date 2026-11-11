@@ -70,6 +70,16 @@ Přidání cizího playlistu přes URL nebo ze souboru.
 
 ![Externí M3U](images/6.png)
 
+### M3U Editor (PRO)
+Pokročilý editor playlistů — kanály přetahuješ mezi kategoriemi, řadíš je, přejmenováváš a vytváříš vlastní skupiny; výsledek uložíš jako nový playlist.
+
+![M3U Editor](images/7.png)
+
+### M3U ↔ EPG Editor (PRO)
+Spáruje kanály z playlistu s EPG — automaticky i ručně. U každého kanálu doplníš EPG ID, logo, skupinu i jazyk a hned vidíš náhled nejbližších pořadů; výstupem je synchronizovaný M3U8.
+
+![M3U a EPG Editor](images/8.png)
+
 ## Podporované platformy
 
 Obraz je **multi-arch (amd64 + arm64)**, takže běží nativně na většině zařízení:
