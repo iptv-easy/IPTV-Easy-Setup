@@ -93,8 +93,8 @@ Obraz je **multi-arch (amd64 + arm64)**, takže běží nativně na většině z
 **Systémy**
 - Linux
 - NAS (QNAP, Synology)
-- macOS (Docker Desktop)
-- Windows (Docker Desktop)
+- macOS (Docker Desktop nebo Podman)
+- Windows (Docker Desktop nebo Podman)
 
 **Kontejnery**
 - Docker
