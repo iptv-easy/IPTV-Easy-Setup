@@ -102,6 +102,8 @@ Obraz je **multi-arch (amd64 + arm64)**, takže běží nativně na většině z
 
 ## Instalace
 
+### Linux / NAS
+
 Na Linuxu s připojením k internetu stačí jeden příkaz — doinstaluje Docker (pokud chybí), stáhne hotový obraz a spustí program:
 
 ```bash
@@ -114,6 +116,24 @@ Nebo přes Docker Compose:
 curl -sSL https://raw.githubusercontent.com/iptv-easy/IPTV-Easy-Setup/main/docker-compose.yml -o docker-compose.yml
 APP_LANG=CZ docker compose up -d
 ```
+
+### Windows a macOS
+
+Nejdřív si nainstaluj **Docker Desktop** (nebo **Podman**) — na rozdíl od Linuxu si ho program sám nedoplní. Potom spusť připravený launcher, který načte hardwarové ID počítače (kvůli navázání licence) a program spustí:
+
+**Windows** (PowerShell):
+
+```powershell
+irm https://raw.githubusercontent.com/iptv-easy/IPTV-Easy-Setup/main/spustit-windows.ps1 | iex
+```
+
+**macOS** (Terminál):
+
+```bash
+curl -sSL https://raw.githubusercontent.com/iptv-easy/IPTV-Easy-Setup/main/spustit-mac.command | bash
+```
+
+Jazyk rozhraní (`CZ` / `EN`) přepneš v launcheru proměnnou `APP_LANG`.
 
 Po instalaci otevři webové rozhraní na:
 
@@ -145,7 +165,7 @@ Licence platí 2 roky. Jeden klíč lze používat na jednom zařízení.
 
 ## Požadavky
 
-- Linux s Dockerem (instalátor Docker doplní, pokud chybí)
+- **Docker** — na Linuxu ho instalátor doplní sám; na Windows/macOS je potřeba mít předem nainstalovaný Docker Desktop (nebo Podman)
 - volný port **5660**
 - běžící **Tvheadend** jako zdroj živého TV vysílání
 
