@@ -141,10 +141,26 @@ Po instalaci otevři webové rozhraní na:
 http://IP-ADRESA-SERVERU:5660
 ```
 
-Aktualizace na novou verzi:
+### Aktualizace na novou verzi
+
+Aktualizace se provede stejným příkazem jako instalace. Nastavení, playlisty i licence zůstanou zachované.
+
+**Linux / NAS:**
 
 ```bash
 curl -sSL https://raw.githubusercontent.com/iptv-easy/IPTV-Easy-Setup/main/install.sh | bash
+```
+
+**Windows** (PowerShell):
+
+```powershell
+irm https://raw.githubusercontent.com/iptv-easy/IPTV-Easy-Setup/main/spustit-windows.ps1 | iex
+```
+
+**macOS** (Terminál):
+
+```bash
+curl -sSL https://raw.githubusercontent.com/iptv-easy/IPTV-Easy-Setup/main/spustit-mac.command | bash
 ```
 
 ## Odinstalace
