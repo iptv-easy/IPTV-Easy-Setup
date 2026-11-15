@@ -18,6 +18,9 @@ if (-not $hwid) {
     exit 1
 }
 
+# Stahnout nejnovejsi verzi (bez toho by docker run pouzil starou, uz stazenou)
+docker pull iptveasysetup/iptv-easy-setup:latest
+
 # Smazat predchozi kontejner, pokud existuje (kvuli opakovanemu spusteni)
 docker rm -f iptv-easy-setup 2>$null | Out-Null
 
