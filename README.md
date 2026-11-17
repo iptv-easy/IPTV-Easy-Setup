@@ -44,7 +44,7 @@ K dispozici je zdarma **10denní plně funkční zkušební verze**, po ní sta�
 ### Hlavní rozhraní
 Výběr skupin a kanálů z Tvheadendu, napojení serveru, VOD a generování playlistu.
 
-![Hlavní rozhraní](images/9.png)
+![Hlavní rozhraní](images/1.png)
 
 ### Správce klientů (PRO)
 Správa jednotlivých klientů — počet online, limit streamů, platnost a zámek.
