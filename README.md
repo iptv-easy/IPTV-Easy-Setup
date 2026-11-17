@@ -13,6 +13,7 @@
 </p>
 
 ---
+## Celý program je v Českém a Anglickém jazyce
 
 ## Co to je
 
