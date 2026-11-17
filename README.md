@@ -59,7 +59,7 @@ Kdo je právě online a co sleduje.
 ### Měsíční přehled využití (PRO)
 Historie a statistiky po dnech a klientech.
 
-![Měsíční přehled](images/4.png)
+![Měsíční přehled](images/9.png)
 
 ### Externí EPG
 Až tři EPG zdroje (XMLTV / XML / GZ) s prioritou.
