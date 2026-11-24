@@ -5,7 +5,7 @@
 <h1 align="center">IPTV Easy-Setup</h1>
 
 <p align="center">
-  Jednoduchý nástroj pro zprovoznění vlastního IPTV vysílání — lehká náhrada za xTeVe, Threadfin, Plex, Emby či Jellyfin, navržená tak, aby běžela i na slabším hardwaru.
+  Jednoduchý nástroj pro zprovoznění vlastního IPTV M3U/M3U8 TVHEADEND vysílání — lehká náhrada za xTeVe, Threadfin, Plex, Emby či Jellyfin, navržená tak, aby běžela i na slabším hardwaru.
 </p>
 
 <p align="center">
